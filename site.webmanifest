@@ -1,0 +1,16 @@
+{
+  "name": "Oxford Social Manchester",
+  "short_name": "Oxford Social",
+  "description": "Brunch, cocktails and late nights on Oxford Street, Manchester.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3ecdf",
+  "theme_color": "#151412",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
